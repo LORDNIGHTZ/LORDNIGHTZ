@@ -1,5 +1,5 @@
 ## LordNightZ 
-Olá, Meu nome é Idelbrando Junior, Estou com 37 anos de idade fui introduzido a programação quando estava na etec no curso de Informatica. Estou no ultimo semestre de rede de computadores, na Faculdade Cruzeiro do Sul e hoje estou aprendendo muito no bootcamp Java FullStack. com objetivo de entrar para o mercado de trabalho em 2025 como Developer Junior.
+Olá, Meu nome é Idelbrando Junior, Estou com 37 anos de idade, fui introduzido a programação quando estava na etec no curso de Informatica. Estou no ultimo semestre de rede de computadores, na Faculdade Cruzeiro do Sul e hoje estou aprendendo muito no bootcamp Java FullStack. com objetivo de entrar para o mercado de trabalho em 2025 como Developer Junior.
 
 ## Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-3dd599?style=for-the-badge)](https://web.dio.me/users/idelbrandobernardo/?tab=achievements)
